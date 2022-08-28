@@ -1,5 +1,6 @@
 Desafio foi criar um esquema conceitual do zero a partir da narrativa fornecida. 
 Foi colocado informações do cliente, do veículo. Foi feito um relacionamento com a equipe de mecânicos, onde teria uma OS com informações de valores e datas, pegando dados das tabelas de peças e mão de obra e voltaria para um relacionamento com cliente pra ver se seria autorizado ou não. Se sim, voltaria pra equipe mecânicos pra resolução. E teria uma tabela mecânicos ligada a equipe mecânicos.
+Imagem PNG do esquema https://github.com/claudiomarquesprogramador/desafio-criar--esquema-conceitual-dio/blob/main/sistema-oficina-mecanica.png
 
 Informações:
 Narrativa:
